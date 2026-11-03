@@ -2,8 +2,6 @@
 
 **A surgical case log that helps residents see how far they have come, and show it.**
 
-Built by App Team Carolina.
-
 ## Why Scalpel
 
 Surgical residency lasts five years. Every year, residents have requirements to meet, and they are expected to take on more of each operation as they go: first watching a step, then assisting, then performing it, and eventually guiding a junior resident through it.
@@ -33,9 +31,3 @@ A case count only says a resident was in the room. Scalpel records which parts o
 - No patient information. Scalpel never asks for it, and the notes field reminds residents to leave it out.
 - Attendings are recorded by initials and role only.
 - Logs are stored on the resident's own phone and belong to them. Program directors only see what a resident chooses to export.
-
-## Where we are
-
-Scalpel starts with first-year general surgery residents, with appendectomy as the pilot procedure. Procedure content, including the steps and what is expected each year, comes from medical students on our clinical team.
-
-Coming next: search and recent procedures for faster logging, filtering by training year, formatted Excel reports, and backup across devices.
